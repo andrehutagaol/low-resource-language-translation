@@ -1,6 +1,6 @@
 # Pivot-Based Translation for Low Resource Languages
 
-This notebook implements pivot-based machine translation between Nepali and Sinhala using English as an intermediate language. This project is part of CS 7650 Natural Language Processing course at Georgia Tech.
+This notebook implements pivot-based machine translation between Nepali and Sinhala using English as an intermediate language. This is a final project for the CS 7650 Natural Language Processing course at Georgia Tech.
 
 ## Overview
 
